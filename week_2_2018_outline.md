@@ -1,7 +1,7 @@
 
-###Title: Victorian Research Seminar Week 2 Outline
+### Victorian Research Seminar Week 2 Outline
 
-Author: Ana Curtis and Tristan Beiter
+Authors: Ana Curtis and Tristan Beiter
 
 Date: 29 January 2018
 
