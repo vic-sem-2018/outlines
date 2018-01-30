@@ -52,7 +52,7 @@ For reference, here is the [2016 seminar's week 2 outline](https://github.com/vi
 
 Specifically the one on page 71?  If so, what are people’s thoughts?
 
-![Latour Circulating Reference page 71 diagram](https://github.com/vic-sem-2018/outlines/blob/master/CirculatingReferenceDiagram71.png)
+![Latour Circulating Reference page 71 diagram](/CirculatingReferenceDiagram71.png)
 
 ## Watt
 
