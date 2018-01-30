@@ -242,7 +242,7 @@ Plumstead Episcopi “the well furnished breakfast parlor” (108) “the appare
 
 Other passages that make us aware of how class functions within either the novel or Barsetshire society?
 
-## Plain-text authoring: Rachel
+## Plain-text authoring
 
 How did the tutorial go?
 
