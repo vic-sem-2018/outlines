@@ -37,6 +37,7 @@ tutorial](https://github.com/dhcolumbia/pandoc-workflow/blob/master/main.md)
 For reference, here is the [2016 seminar's week 2 outline](https://github.com/vic-sem-2016/outlines/blob/master/week_2_outline.md).
 
 ## Latour
+
 ### What’s his argument?
 
 (Our answer: in order to understand things, we abstract them and make them referential, but then that replaces things in our mind.  Example of the pedocomparator)
@@ -54,6 +55,7 @@ Specifically the one on page 71?  If so, what are people’s thoughts?
 ![Latour Circulating Reference page 71 diagram](https://github.com/vic-sem-2018/outlines/blob/master/CirculatingReferenceDiagram71.png)
 
 ## Watt
+
 ### formal realism
 
 P. 32 “The narrative method whereby the novel embodies this circumstantial view of life may be called its formal realism” … “Formal realism, in fact, is the narrative embodiment of a premise that Defore and Richardson accepted very literally, but which is implicit in the novel form in general: the premise, or primary convention, that the novel is a full and authentic report of human experience” (32)
