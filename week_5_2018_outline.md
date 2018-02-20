@@ -110,7 +110,7 @@ What other questions might we have that we think Underwood et al’s datasets an
  
 ## Last week on _Our Mutual Friends_ [weave this stuff throughout outline?]
 
-###Lots of changing characters
+### Lots of changing characters
 Bella Wilfer
 
 Her changing/~budding~ relationships with her family, Rokesmith, Lizzie
