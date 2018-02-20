@@ -18,7 +18,7 @@ How does Bakhtin argue that Dickens is using language in these scenes?
 
 ### Language
  How does Bakhtin’s conception of language relate to our understanding of fiction and realism?
-
+ 
 - Language treated “as objects, as typifactions, as local color” (288)
 - Literary language as a “dialogue of languages” (294)
 
@@ -123,6 +123,7 @@ Mrs. Lammle’s change of conscience
 Bradley Headstone - yikes
 
 ### John Rokesmith/Harmon/Julius Handford’s conversation with himself
+
 ### What to make of the characterization of Mr. Riah?
 
 ## Notes and note-taking: ? 
