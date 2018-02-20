@@ -18,9 +18,9 @@ How does Bakhtin argue that Dickens is using language in these scenes?
 
 ### Language
  How does Bakhtin’s conception of language relate to our understanding of fiction and realism?
-
--       Language treated “as objects, as typifactions, as local color” (288)
--       Literary language as a “dialogue of languages” (294)
+ 
+- Language treated “as objects, as typifactions, as local color” (288)
+- Literary language as a “dialogue of languages” (294)
 
 ### Poetry vs. Prose
 Willa’s questions
@@ -111,14 +111,19 @@ What other questions might we have that we think Underwood et al’s datasets an
 ## Last week on _Our Mutual Friends_ [weave this stuff throughout outline?]
 
 ###Lots of changing characters
+
 Bella Wilfer
 
-Her changing/~budding~ relationships with her family, Rokesmith, Lizzie
-Emma on Mastodon: child/father relationships - parallel between Jenny Wren and Bella Wilfer?
+- Her changing/new relationships with her family, Rokesmith, Lizzie
+- Emma on Mastodon: child/father relationships - parallel between Jenny Wren and Bella Wilfer?
 Mr. Boffin’s miserhood
+
 Mrs. Lammle’s change of conscience
+
 Bradley Headstone - yikes
+
 ### John Rokesmith/Harmon/Julius Handford’s conversation with himself
+
 ### What to make of the characterization of Mr. Riah?
 
 ## Notes and note-taking: ? 
