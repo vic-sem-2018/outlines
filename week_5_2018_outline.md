@@ -114,11 +114,17 @@ What other questions might we have that we think Underwood et al’s datasets an
 Bella Wilfer
 
 Her changing/~budding~ relationships with her family, Rokesmith, Lizzie
+
 Emma on Mastodon: child/father relationships - parallel between Jenny Wren and Bella Wilfer?
+
 Mr. Boffin’s miserhood
+
 Mrs. Lammle’s change of conscience
+
 Bradley Headstone - yikes
+
 ### John Rokesmith/Harmon/Julius Handford’s conversation with himself
+
 ### What to make of the characterization of Mr. Riah?
 
 ## Notes and note-taking: ? 
